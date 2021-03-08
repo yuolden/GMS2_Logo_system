@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "LOG_part",
-    "path": "folders/LOG_part.yy",
+    "name": "Part",
+    "path": "folders/Objects/OHC LOGO/Part.yy",
   },
   "resourceVersion": "1.0",
   "name": "Part_starway",

@@ -6,7 +6,7 @@
     {"id":{"name":"part_LevelUP","path":"objects/part_LevelUP/part_LevelUP.yy",},"order":1,},
     {"id":{"name":"s_back_star","path":"sprites/s_back_star/s_back_star.yy",},"order":1,},
     {"id":{"name":"F_ohc","path":"fonts/F_ohc/F_ohc.yy",},"order":2,},
-    {"id":{"name":"s_part_sprites01","path":"sprites/s_part_sprites01/s_part_sprites01.yy",},"order":3,},
+    {"id":{"name":"s_part_sprites02","path":"sprites/s_part_sprites02/s_part_sprites02.yy",},"order":3,},
     {"id":{"name":"o_Logo_system","path":"objects/o_Logo_system/o_Logo_system.yy",},"order":0,},
     {"id":{"name":"Room_logo","path":"rooms/Room_logo/Room_logo.yy",},"order":1,},
     {"id":{"name":"part_LevelUP2","path":"objects/part_LevelUP2/part_LevelUP2.yy",},"order":2,},
